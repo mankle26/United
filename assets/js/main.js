@@ -149,7 +149,7 @@
    * Testimonials slider
    */
   new Swiper('.testimonials-carousel', {
-    speed: 400,
+    speed: 700,
     loop: true,
     autoplay: {
       delay: 5000,
